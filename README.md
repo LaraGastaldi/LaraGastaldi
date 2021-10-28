@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @LaraGastaldi
 - 🌴 I'm from Brazil
 - 💻 Monitoring analyst
-- 🔬 Currently learning Python, PHP, and Java
+- 🔬 Currently learning Python, PHP, and Kotlin
 
 ## ☘ More about me
 - 🏆 I am linux and python certified
