@@ -1,12 +1,12 @@
 ## 🤔 About me
 - 👋 Hi, I’m @LaraGastaldi
 - 🌴 I'm from Brazil
-- 🔬 Currently a full stack developer, PHP and Angular
+- 🔬 Currently a full stack developer - Laravel and Vue
 
 ## ☘ More about me
-- 🏆 I am linux and python certified
+- 🏆 Linux and Python certified
 - ✍ I am always up to learning new things
-- ☑️ I am veriy persistent and I hardly give up when facing problems
+- 📖 I started coding at age 15 (2017), with PHP!
 
 ## ✉ You can find me on...
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/lara-gastaldi-0253481a4/)
