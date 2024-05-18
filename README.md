@@ -1,7 +1,7 @@
 ## 🤔 About me
 - 👋 Hi, I’m @LaraGastaldi
 - 🌴 I'm from Brazil
-- 🔬 Currently a full stack developer - Laravel and Vue
+- 🔬 Currently a full stack developer - PHP and JavaScript
 
 ## ☘ More about me
 - 🏆 Linux and Python certified
