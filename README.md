@@ -11,6 +11,9 @@
 ## ✉ You can find me on...
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/lara-gastaldi-0253481a4/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:lara.f.gastaldi@gmail.com)
+
+[![roadmap.sh](https://roadmap.sh/card/tall/66450167f4bbac65702c3951?variant=dark)](https://roadmap.sh)
+
 <!---
 LaraGastaldi/LaraGastaldi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
