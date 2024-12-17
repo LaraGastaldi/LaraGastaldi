@@ -14,7 +14,7 @@
 
 [![roadmap.sh](https://roadmap.sh/card/tall/66450167f4bbac65702c3951?variant=dark)](https://roadmap.sh)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/lara.f.gastaldi.png" alt="TryHackMe Badge" />
+[![This is an automated blog post image using Azure Function](https://tryhackme-badges.s3.amazonaws.com/lara.f.gastaldi.png?)](https://tryhackme.com/r/p/lara.f.gastaldi)
 
 <!---
 LaraGastaldi/LaraGastaldi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
